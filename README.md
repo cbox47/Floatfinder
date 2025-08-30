@@ -6,6 +6,8 @@ Automated price checking is somewhat allowed by Steam, but automated purchasing 
 
 Steam will give 429 - too many requests for an undefined amount of time if the `SCAN_INTERVAL` is set too low
 
+# Info
+
 Information about the CSFloat Inspect API and how to self-host it can be found here: https://github.com/csfloat/inspect#how-to-install
 
 Information about the Steam API endpoint used by the script can be found here: https://github.com/Revadike/InternalSteamWebAPI/wiki/Get-Market-Listing
